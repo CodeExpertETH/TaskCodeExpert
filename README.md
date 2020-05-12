@@ -15,7 +15,7 @@ The root directory has the special name: "."
 
 # You task
 
-Write your code in javascript (either browser or nodejs).
+Write your code in javascript/typescript (either browser or nodejs).
 
 Provided an array of metadata objects as described above, your task is to display the project tree, as seen by a student at the current timepoint (`current === true`).
 You are free to choose how you want to print the project tree (console is good enough for us).
