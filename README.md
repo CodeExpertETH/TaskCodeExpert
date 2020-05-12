@@ -17,7 +17,7 @@ The root directory has the special name: "."
 
 Write your code in javascript (either browser or nodejs).
 
-Provided an array of metadata objects as described above, your task is to write the project tree, as seen by a student at the current timepoint (`current === true`).
+Provided an array of metadata objects as described above, your task is to display the project tree, as seen by a student at the current timepoint (`current === true`).
 You are free to choose how you want to print the project tree (console is good enough for us).
 If a student should not be able to read the file/directory, this should not show up in the project tree.
 If a file/directory is readable but not writeable, append the name with " (r)".
